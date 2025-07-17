@@ -1,0 +1,584 @@
+español,quechua_texto,quechua_audio,formato_del_audio,Duración_(s),Tasa de Muestreo_(Hz),calidad_de_grabacion,fecha_de_grabacion,variante_dialectal,tipo_de_habla,tipo_de_formalidad,morfismos,tema,edad,genero,lugar
+¿Tienes esposa?,¿Warmiyki kanchu?,G02_001.wav,WAV,"2,58",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Tienes esposo?,¿Qhariyki kanchu?,G02_002.wav,WAV,"2,24",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Tienes hijos?,¿Wawaykikuna kanchu?,G02_003.wav,WAV,"2,52",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Cuántos hombres, cuántas mujeres?","¿Hayk'an kary, hayk'an warmy?",G02_004.wav,WAV,"3,62",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+Yo no tengo hijos,Manan wawayuqchu kani,G02_005.wav,WAV,"3,12",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Por qué ha venido señor?,¿Imarayku hamushanki wiracocha?,G02_006.wav,WAV,"2,58",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Por qué ha venido señora?,¿Imarayku hamushanki mamay?,G02_007.wav,WAV,"3,04",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Por qué ha venido joven?,¿Imarayku hamushanki wayna?,G02_008.wav,WAV,"3,14",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Por qué ha venido señorita?,¿Imarayku hamushanki sipas?,G02_009.wav,WAV,"3,82",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Qué es lo que le duele o por qué viene?,¿Iman nanasunki imarayku hamunki?,G02_010.wav,WAV,"5,24",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"Me siento mal, me duele todo el cuerpo","Mana allinmi sientekuni, lliw cuerpoymi nanawan.",G02_011.wav,WAV,"3,6",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Desde cuándo estás enfermo?,¿Hayk'akmanta onq'oska kashanky?,G02_012.wav,WAV,"3,46",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+He estado enfermo durante una semana,Huk semanañam unquchkani,G02_013.wav,WAV,"2,9",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Cómo le comenzó?,¿Imayntaq k'allarinka?,G02_014.wav,WAV,"1,76",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Qué es lo que le duele?,¿Imaykin nanan?,G02_015.wav,WAV,"4,82",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Poco, fuerte o leve?","¿Pistachu, sinchitachu o fuertetachu?",G02_016.wav,WAV,"2,8",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Cómo es el dolor?,¿Imaynatatak nanasunky?,G02_017.wav,WAV,"2,32",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Se irradia?,¿Purinchu nanayniyky?,G02_018.wav,WAV,"2,78",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+Señale con el dedo,Dedoykiwan willaway,G02_019.wav,WAV,"2,86",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Qué le aumenta el dolor?,¿Iman masta nanachisunky?,G02_020.wav,WAV,"3,42",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Con qué le calma?,¿Iman wabtaq pisita nanasunky?,G02_021.wav,WAV,"1,98",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le duele la cabeza?,¿Umayki nanan?,G02_022.wav,WAV,"2,32",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le punza?,¿Usury hinachu?,G02_023.wav,WAV,"2,18",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le late?,¿Samay hinachu?,G02_024.wav,WAV,"2,68",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le revienta?,¿Particucu hinachu?,G02_025.wav,WAV,"2,08",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Toda la cabeza?,¿Intirun umachu?,G02_026.wav,WAV,"2,22",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿La mitad de la cabeza?,¿Kusca umallachu?,G02_027.wav,WAV,"2,14",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Ve luces?,¿Luztachu ricunki?,G02_028.wav,WAV,"2,06",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le duele la garganta?,¿Tonkori nanan?,G02_029.wav,WAV,"2,5",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Arde, punza?",¿Sansan usuri hina?,G02_030.wav,WAV,2,48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le duele la boca?,¿Simiyku nanan?,G02_031.wav,WAV,"2,14",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le duele la lengua?,¿Kalloyki nanan?,G02_032.wav,WAV,"1,82",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Arde, quema?",¿Ruphakunchu?,G02_033.wav,WAV,"2,06",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le duele el cuello?,¿Kunkaiki nanan?,G02_034.wav,WAV,"2,32",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le duele la espalda?,¿Wasayki nanan?,G02_035.wav,WAV,"2,96",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿En descanso o en actividad?,¿Samanki hina o ruwanki hina?,G02_036.wav,WAV,"2,44",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le duele el pulmón?,¿Sorq'anki nanan?,G02_037.wav,WAV,"2,6",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Cuando tose le duele más?,¿Uhunky hinachu nanan masta?,G02_038.wav,WAV,"2,16",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le duele el abdomen?,¿Wiksachu nanan?,G02_039.wav,WAV,"3,28",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Tiene fiebre o escalofríos?,¿Rupaychu hap'isunki o chirichu?,G02_040.wav,WAV,"2,94",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Orina bien de día?,¿Hisp'anki allinta tuta?,G02_041.wav,WAV,"2,78",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Orina bien de noche?,¿Hisp'anki allinta punchay?,G02_042.wav,WAV,"2,4",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le funciona bien el intestino?,¿Akashanki allyntachu?,G02_043.wav,WAV,"2,46",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Duerme bien?,¿Allyntachu puñunky?,G02_044.wav,WAV,"4,28",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Es cierto que a veces se despierta? ¿Cuántas veces?,¿Cheqachu rikch'anki? ¿Hayk'a kuti?,G02_045.wav,WAV,"5,72",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Siente dolor al pasar la saliva o los alimentos, ardor o punza o le produce la tos?",¿Nanan mikunki hina o sansanchu o uhuchu kosonki?,G02_047.wav,WAV,"3,42",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Tiene dolor (ardor punzada) en el cuello?,¿K'aran o nanan kunkayki?,G02_048.wav,WAV,"4,5",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Tiene tos por momentos o constante?,¿Uhunki pisitachu o anchatachu uhunki?,G02_049.wav,WAV,"9,08",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Con la tos bota algo y de qué color, blanco, verde, amarillo, con sangre o totalmente con sangre?","¿Uhuspa imata thoqanki, ima color, yurac, k'omer, kello o yawartachu?",G02_050.wav,WAV,"10,98",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Con la tos se agita, no puede respirar bien y si camina se agita o le falta el aire para respirar?",¿Uhunki hina saykunkichu manachu samayta atinki purinki hina saykunkichu o samaychu mana kan?,G02_051.wav,WAV,"3,92",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿La tos se acompaña de dolor hacia alguna parte de la espalda (tórax)?,¿Uhunki hina huasaykichu nanasunki?,G02_052.wav,WAV,"4,46",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Siente que le ronca o le silba el pecho?,¿Uhunki hina ronkankichu o silvankichu?,G02_053.wav,WAV,"4,1",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Tiene agitación por momentos o todo el día?,¿Saik'unki hask'atachu pisillatachu?,G02_054.wav,WAV,"4,58",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Tiene dolor, punzada, cuando tose, camina o respira profundo?",¿Uhunki hina nanasunki o purinky hina?,G02_055.wav,WAV,"4,98",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"Quítese la ropa, le voy a examinar",Ch'utikuy p'achaykita qawasayki imaynas cashanky,G02_056.wav,WAV,"2,36",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+Abre la boca,Simiykita kichay,G02_057.wav,WAV,"3,34",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Se agita cuando camina?,¿Purinki hina ahitakunkichu?,G02_059.wav,WAV,"3,36",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Con cuántas almohadas duerme?,¿Hayk'a saunanawanmi puñunky?,G02_060.wav,WAV,"5,98",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Se despierta ahogándose cuando duerme?,¿Rikch'ankihina tuk'ayniykichu mana samachisunki?,G02_061.wav,WAV,"3,22",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le duele el pecho cuando camina?,¿Purijtiyki pechoykichu nanasunki?,G02_062.wav,WAV,"3,54",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Qué hace para que el dolor pase?,¿Imatan ruwanky chay nanay pasanampaq?,G02_063.wav,WAV,"3,48",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"Además de dolor, ¿qué otra cosa siente?",¿Nanaymanta imatawantaq sintinky?,G02_064.wav,WAV,4,48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Sudor frío? ¿Mareos?,¿Chiry hump'iychu? ¿Sonkochu muyun?,G02_065.wav,WAV,"2,38",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Ganas de llorar?,¿Waqaytachu munanqui?,G02_066.wav,WAV,"2,8",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Siente que le palpita el pecho?,¿Pechuykichu saltakun?,G02_067.wav,WAV,"4,1",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+Deme su brazo para ver su presión,Apamuy mojlleykita presion khawanaypak,G02_068.wav,WAV,"3,54",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+Deme su mano para saber cuánto tiene,Apamuy makiykita khawanaypak,G02_069.wav,WAV,"4,12",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+Le voy a examinar su corazón,Sonkoykita khawasac imayna kaskanta,G02_070.wav,WAV,"1,28",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+Respire,Samay,G02_071.wav,WAV,"1,88",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+no respire,ama samychu,G02_072.wav,WAV,"2,66",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+póngase de costado,teknemanta churakuy,G02_073.wav,WAV,"1,68",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+siéntese,tiyariy,G02_074.wav,WAV,"3,44",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+Ponga suelto el abdomen,Wicsaykita ama kuyuchiychu,G02_075.wav,WAV,"3,24",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le duele aquí en el lado derecho?,¿Nanasunkichu kay paña ladupi?,G02_076.wav,WAV,"2,88",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Están sus pies hinchados?,Chakiyki punkiscachu cashan?,G02_077.wav,WAV,"4,98",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+Respira profundamente un rato y para de respirar un ratito,"Samay ukumanta huq rato, hinaspa ama samaychu",G02_078.wav,WAV,"4,22",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+Le voy a dar unos golpecitos suaves en el lado izquierdo de su tórax o pecho,Takariscayki zumacllata lloq'e sonkoikipi,G02_079.wav,WAV,"3,96",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+Descúbrase la camisa para examinar su corazón,¿Saik'unki askhatachu pisillatachu?,G02_080.wav,WAV,"5,08",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+Late bien y está normal,Allintan purishan t'ulkutan purishan,G02_081.wav,WAV,"5,48",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"Está como loco, late rápido",Loco hina purishan t'ulkutan purishan,G02_082.wav,WAV,"4,18",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Al tocarle el pecho, siente como un cosquilleo en su mano?",¿Pechuyki hapikity seccsisunkichu makiyki?,G02_083.wav,WAV,"7,44",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"Voltee la cabeza al lado izquierdo, le voy a apretar el vientre del lado derecho",Umaykita churay lloq'e laduma noqa hapiykusac paña wicsaykita,G02_084.wav,WAV,"4,98",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Se cansa o se agita cuando camina poca distancia o gran distancia?,¿Purinki hina sayk'unkichu o pisita purinki hinachu?,G02_085.wav,WAV,"6,02",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"Siente que su corazón le palpita rápido o por momentos, a veces o siempre o cuando camina?",¿Sonkoyki purin yankatachu o manachu o purinki hinallachu?,G02_086.wav,WAV,"4,96",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Se le hinchan los pies por las tardes o es que ya los pies los tiene permanentemente hinchados?,Chakiyki punkisunkichu o punkiskapuni karan?,G02_087.wav,WAV,"4,16",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Esa hinchazón ha subido hasta las piernas o la barriga?,¿Chakiykillachu puntiska o wicsacamachu?,G02_088.wav,WAV,"4,96",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Siente el abdomen más hinchado cuando come o después de comer?,¿Wicsayki punkin mihumki hina o mihuspañachu?,G02_089.wav,WAV,"8,74",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Alguna vez se ha despertado bruscamente a media noche porque le faltaba aire para respirar o estaba tosiendo o estaba agitado?,¿Rikcharankichu kuskan tuta mana samayta atispa o samaytachu mana atiranqui uhuspa saykuska?,G02_090.wav,WAV,"4,94",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Tuvo alguna vez dolor en el pecho cuando camina y se pasa rápido?,¿Qhasco nanarasunkichu purictiyki hinaspa manañachu?,G02_091.wav,WAV,"4,86",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿El dolor en el pecho se ha vuelto permanente?,¿Qhasco nanayniyki unaymanatañachu?,G02_092.wav,WAV,"5,2",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Es algo como que le aprisionaran o apretaran el pecho?,¿Mat'iykusunquimampis sonkoiykita hinatachu Yupanqui?,G02_093.wav,WAV,"3,46",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le duele la boca cuando la abre?,¿Simiyki nananchu kichactiyki?,G02_095.wav,WAV,"3,92",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Cómo está su dentadura, el diente le molesta o duele?","¿Imayna kashan kiruyqui, nanasunkichu?",G02_096.wav,WAV,"5,48",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Cuánto tiempo mastica coca, ahora lo viene haciendo?","¿Hayk'amantaña cocata akullinky, kunan acullisankichu?",G02_097.wav,WAV,"2,46",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Tiene apetito?,¿Yarak'asunkichu?,G02_098.wav,WAV,"4,34",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"sí, ya no tengo ganas de comer como antes.","Arí, manan ñawpaq hinachu mihuyta munani.",G02_099.wav,WAV,"4,26",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le repugna la comida o algunas en especial?,¿Millankunkichu mihunata o ima mihuy,G02_100.wav,WAV,"5,22",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿No tiene deseos de comer, desde cuándo?","¿Manachu mihuita munanki, hayk'aqmanta?",G02_101.wav,WAV,"4,38",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Ha notado que desde que se le quitó el apetito es que ha bajado de peso?,"¿Mana mihusqaikimanta, tulluyanquichu?",G02_102.wav,WAV,"4,18",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Tiene dolor en el vientre? ¿Cómo es?,¿Nansunkichi wicsayki chaypi imaynatak?,G02_103.wav,WAV,"4,84",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Le arde, le quema, le punza, le retuerce, aumenta o calma cuando come?","¿Sansan, ruphan, k'ewen, mihuytiykitac?",G02_104.wav,WAV,"2,88",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Es permanente o por ratos?,¿Tukuy punchay o ratullachu?,G02_105.wav,WAV,"12,12",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"Cuando le caen mal los alimentos, ¿le dan ganas de vomitar, le viene dolor, siente que se hincha el abdomen?","Wiksayki phiñasqa kaspaqa, ¿vomito hinachu sientekunki, nanaytachu tarinki, wiksayki punkichkaq hinachu sientekunki?",G02_106.wav,WAV,"4,24",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Cuánto tiempo dura esta molestia?,¿Hayk'a unaytaq kay mana allin kayqa?,G02_107.wav,WAV,"8,56",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Cree que algunas comidas le caen mal? ¿Cuáles son: grasas, verduras, chuño blanco o negro?","Manachu allinta ruasunky mihuykima: wira, verdura, chuño yurac o yana?",G02_108.wav,WAV,"2,78",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le funciona bien el intestino?,¿Allinchu cashan wicsayki?,G02_109.wav,WAV,"13,96",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Ha tenido diarreas? ¿Cómo son: ¿puré, son delgadas, casi como cinta, por pedazos, largas, son gruesas con sangre roja o sin color, casi blancas o de color negro como la brea?","K'echawanchu kashanki? ¿imaynatak: unu hina, ima color, yarwarchu, hatun, racku, yurac, yana brea hinachu?",G02_110.wav,WAV,"9,9",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"Cuando sus deposiciones son sueltas (diarreas), ¿se acompañan de dolor, retortijón y sensación de pujo o de querer hacer nuevamente o son de poca cantidad y continúa la molestia?","K'echanki hina nanaywanchu, ¿k'ewesunkichu, huqtawanchu k'echayta munanki o k'echallachu pisimanta pisi?",G02_111.wav,WAV,"8,44",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"Si ha tenido dolor en la boca del estómago, ¿este dolor luego se localiza en el lado derecho y es muy intenso?","Wicsa simipi nanasunkichu, ¿chay nanay paña wicsapichu, unaytachu nanasunki?",G02_112.wav,WAV,"10,12",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿A los pocos días ese dolor se acompaña de coloración amarilla en los ojos y la piel y hay cambio de color de la orina?,"¿Pisi p'unchay hinaspa chay wicsa nanaymanta ñawiykik'ello kutin, aychaykipis, hisp'aynikipis?",G02_113.wav,WAV,"3,82",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Días después, la deposición es casi blanca?",¿Paqarinintin akanti yuractachu?,G02_114.wav,WAV,"7,56",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Estas molestias persisten y hay sensación de calor o frío, a veces precedida de escalofríos?","¿Mana allin kashanki hina, rupasunkichu cuerpo, hinaspa chiri calor hamun?",G02_115.wav,WAV,"4,92",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿La ebre es constante? ¿por las tardes o en determinada hora del día?,"¿Rupa pakuy tukey punchay, chisillamanchu?",G02_116.wav,WAV,"10,46",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Cómo está la orina?, ¿de qué color?, ¿cuánto orina?, ¿mucho / poco?","¿Hisp'aniyki imayna kashan?, ¿ima color?, ¿hayk'ata hisp'anki?, ¿pisita / ashkata?",G02_117.wav,WAV,"3,5",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"Cada vez que orina, ¿tiene ardor?",¿Hisp'aqtiyki k'arasunkichu?,G02_118.wav,WAV,"2,56",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Orina frecuentemente?,¿Hisp'ay atisunki?,G02_119.wav,WAV,"5,52",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Orina en las noches? ¿cuántas veces?,¿Hisp'anki tutallachu ask'ata – hayk'a cutita?,G02_120.wav,WAV,"7,76",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Cómo es el chorro en la orina? ¿delgado, grueso o como siempre?","¿Imaynataq hisp'ayniyki, ñañu, raku, caskanllachu?",G02_121.wav,WAV,"5,2",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Algunas veces con ardor, dolor al terminar de orinar?","Nanasunkichu, k'arasunkichu hisp'ay tukunki hina?",G02_122.wav,WAV,"4,7",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Su orina es de olor fuerte y turbia?,¿Hisp'ayniyki asnachu o k'ellechu?,G02_123.wav,WAV,"3,64",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Alguna vez ha orinado sangre y con olor?,¿Hisp'arankichu yawarta nanayman?,G02_124.wav,WAV,"7,54",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿El dolor alguna vez viene de la cintura y baja hacia el abdomen y a los genitales?,¿Nanay hamun teqnemanta hinaspa urak'an wiksaman hinaspa hinaspaykiman?,G02_125.wav,WAV,"5,66",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Puede diferenciar si la sangre viene de la orina o de los genitales?,¿Yawar urak'amun hispanaymanta o vaginaykimanta?,G02_126.wav,WAV,"3,42",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le viene sangre todos los meses?,¿Yawarniyki hamun sapa killachu?,G02_127.wav,WAV,"5,64",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le baja poco o mucha cantidad de día o de noche?,"¿Hamun pisichu o asckachu, tutatchu o p'unchaychu?",G02_128.wav,WAV,"4,94",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Cuándo fue la última vez que vino tu regla?,¿Hayk'actac hamuran yawarniyki qhepaman?,G02_129.wav,WAV,5,48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Cuántos días le baja sangre?,¿Hayk'a p'unchawtaq yawarniyki purin?,G02_130.wav,WAV,"4,02",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Es abundante los primeros días?,¿Ashkachu kallarin hina yawarniyki?,G02_131.wav,WAV,"3,94",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿O solo el primer o segundo día?,¿Iskay punchayllachu hamun ask'a?,G02_132.wav,WAV,"8,58",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+Si tienes más de cuarenta años la regla puede venir en mes o dos meses,Huaytayqui tawa chunka hinaq'a yawarniyki hamunk'a uk o iskay killamanta,G02_133.wav,WAV,"6,74",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+Si no le viene varios meses la regla puede estar embarazada,Mana yawarniyki hamunchu haska killata hinaka onk'ocmi kawac,G02_134.wav,WAV,"8,1",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+La mujer que pierde sangre antes de la fecha de regla debe avisar al médico porque no es bueno que ocurra ello,"Yawarniyki hamun mana tukasunki hinaka willanayqui doctorma, chayk'a manan allinchu",G02_135.wav,WAV,"4,32",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Cuántos meses no le viene la regla?,¿Hayk'a killatac mana yawarniyki hamunchu?,G02_136.wav,WAV,"3,92",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Es la primera vez que espera un hijo?,Ñampaq wawaykitachu suyasanki?,G02_137.wav,WAV,"5,1",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Cómo fue su parto? ¿dónde y quién la ha atendido?,"¿Ymayna onkokunki, maypy pitak cuidarasunki?",G02_138.wav,WAV,"3,6",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Has tenido mucho dolor de cadera?,¿T'ekeniyki anchatachu nanasunki?,G02_139.wav,WAV,"4,68",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Se ha hinchado en los últimos meses?,¿T'ekeniyki punkirkanchu iskay ultimo killata?,G02_140.wav,WAV,"3,72",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿El niño o niña nació bien, hasta la fecha?",¿Wawayki allinchu kashan kunankama?,G02_141.wav,WAV,"3,12",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le da de lactar a su hijo?,¿Nuñuchinkichu wawaykita?,G02_142.wav,WAV,"3,76",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Cuántas veces al día?,¿Hayk’a kutitatac nuñuchinki uk punchay?,G02_143.wav,WAV,"6,3",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Cuánto tiempo viene dando pecho?,¿Hayk’actamantañatac ñuñuchishanki?,G02_144.wav,WAV,"6,4",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Ha tenido que acudir a alguna partera o persona entendida o vino a la posta u hospital?,¿Rirk’anki wawachachik warmictachu ó rirk’anki hospital o posta?,G02_145.wav,WAV,"6,62",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Ahora está más renegona o sensible para llorar?,¿Kunan pisillamantachu koleranki ó wak’aychu hamushunki yancalla?,G02_146.wav,WAV,"11,7",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Siente calor y sudor en la cabeza, cuello y pecho, todos los días?",¿Hump’ichu rupaypiwan umaykima hamun tonk’oriman sapa punchay?,G02_147.wav,WAV,"6,8",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le ha visto un ginecólogo? ¿Una vez al año? ¿Cuánto tiempo no lo ha visto o nunca lo hizo?,"¿Ricusunkichu warmi doctor uk cutita watapi, hayk’acmantaña mana kcarsunkichu, o hayk’acpis ricusunkichu?",G02_148.wav,WAV,"6,3",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"Cuando tiene ganas de orinar y no lo hace, ¿se le escapa la orina?",¿Hip’ayta munanqui hina mana kanchu hispa’y o hip’aykunkichu?,G02_149.wav,WAV,"3,3",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"Cuando tose, estornuda o se ríe, ¿también se le sale la orina?",¿Uhunki o asikunky hina hisp'aychu atipamusunki?,G02_150.wav,WAV,"3,2",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Ha notado que le baja humedad por los genitales?,¿Huminchu genitalniyki?,G02_151.wav,WAV,"2,58",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+"¿Es amarillo, con sangre?","K’ellocho, yawarniyukcho",G02_152.wav,WAV,"3,62",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Tiene olor fuerte?,¿Asnachu?,G02_153.wav,WAV,"4,14",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le pican los genitales?,¿Sasan nanan genitalniyki?,G02_154.wav,WAV,"6,52",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Le sale pus por el pene?,¿Qari kayninmanta pus lluqsiy?,G02_155.wav,WAV,"4,5",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,28,mujer,Cusco
+¿Tiene dolor de cabeza y se acompaña de náuseas?,¿Umaykichu nanasunkiy imatawantaq sintinky umayqkichu muyun?,G02_157.wav,WAV,"4,28",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, sobre todo por las mañanas.","Arí, qallariypi llapallanmantapas.",G02_158.wav,WAV,"4,18",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Cuando le duele la cabeza ¿ve luces?,¿Umaykichu nansunkiy hina koillyrtachu rikunki?,G02_159.wav,WAV,"5,2",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+A veces ve destellos.,Wakin kutita phaqyachakunata rikuni.,G02_160.wav,WAV,"2,88",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Dolor en la cintura que va hacia un lado de la pierna?,¿Nananchu tekniyki hinaspa huk lado chakimachu muyun?,G02_161.wav,WAV,"3,04",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, me duele hasta el muslo.","Arí, chakyman nanan.",G02_162.wav,WAV,"1,96",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Desde cuándo arrastra la pierna?,¿Hayk’akmanta chakiyki arrastranki?,G02_163.wav,WAV,"5,92",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Desde hace un mes.,Huk killaña.,G02_164.wav,WAV,"3,14",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Ha notado dicultad para mover un brazo y una pierna del mismo lado?,¿Manachu atinki makiyki aysayta hinata chay lado chakiykita?,G02_165.wav,WAV,"4,42",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, el lado izquierdo no responde bien.","Arí, lloq’e lado mana allinchu.",G02_166.wav,WAV,"6,52",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Saque la lengua, sople, silbe","Qalluykita urkumuy, phukuy, silvay",G02_167.wav,WAV,"2,94",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Ha notado que media cara no es igual que la otra o que la boca se ha desviado o torcido más para un lado?,¿Cuentataa qokunkichu huk lado uyaiki mana allinchu o simiyki huk laduma kuyurukun?,G02_168.wav,WAV,"1,98",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, la boca se me tuerce.","Arí, simiy lloq’eman t’ikrasqa.",G02_169.wav,WAV,"2,82",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Tiene mareos?,¿Umayki muyusunkichu?,G02_170.wav,WAV,"4,54",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"A veces, cuando me levanto rápido.",Wakin kuti sayaruktiy hina.,G02_171.wav,WAV,"3,34",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Le parece que pierde la estabilidad cuando está parado o caminando?,¿Purishanki hina umayquichu muyusunki o sayarictiyki?,G02_172.wav,WAV,"2,3",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, me tambaleo.","Arí, mana allinta sayayta atinichu.",G02_173.wav,WAV,"3,72",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Camina a pasos cortos?,¿Purinqui pisipidimantachu?,G02_174.wav,WAV,"4,58",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, ya no puedodar  pasos largos.","Arí, manañam hatun ñanpi puriyta atinichu.",G02_175.wav,WAV,"2,44",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Le tiembla una mano o un pie o medio cuerpo?,"¿Khatatanchu huk makiyki, huk chakiyki o kuskan cuerpo?",G02_176.wav,WAV,"2,08",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+La mano derecha no para de temblar.,"Arí, paña makiyqa khatatan.",G02_177.wav,WAV,"2,92",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Ha cambiado su modo de hablar?,¿Parlanki huk hinachu?,G02_178.wav,WAV,"4,34",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, hablo más lento.","Arí, aswan ch’inallata rimani.",G02_179.wav,WAV,"1,86",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Siente que los brazos o las manos le tiemblan por momentos?,¿Makiykichu o rikraykichu ratu ratu manta khatatan?,G02_180.wav,WAV,"4,48",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, a veces sin control.","Arí, wakin kuti.",G02_181.wav,WAV,"2,56",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Siente si le viene pérdida de conciencia y luego le tiemblan los brazos y las piernas?,¿Yuyainiki chincanchu hinaspa makiyki chakiykiwan khatatan?,G02_182.wav,WAV,"2,48",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Me desmayo y después tiemblo.,"Arí, ch’usaykuspa khatatani.",G02_183.wav,WAV,"2,16",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Se siente cansado?,¿Sayk'uska hinachu kashanki?,G02_185.wav,WAV,"2,88",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Siempre sin energía.,Kallpaymi huañurapun,G02_186.wav,WAV,"2,78",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Prefiere no hablar con nadie?,¿Manachu piwampas parlayta munanki?,G02_187.wav,WAV,"2,26",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+No quiero ver a nadie.,Mana pitapas rikuyta munanichu.,G02_188.wav,WAV,"3,32",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Se encierra en su cuarto?,¿Wasiykipichu wisk'akunki?,G02_189.wav,WAV,"2,08",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, paso días ahí.","Arí, sapa p'unchawmi wasiypi tiyani.",G02_190.wav,WAV,"2,38",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Preere no hablar?,¿Manachu parlayta munanki?,G02_191.wav,WAV,"2,52",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+No tengo ganas de hablar.,Mana parlayta munanichu.,G02_192.wav,WAV,"2,28",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Nada le llama la atención?,¿Manachu imapas atishasunki?,G02_193.wav,WAV,"3,48",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Todo me da igual.,Mana imapas qoqowanchu.,G02_194.wav,WAV,"2,76",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Siente de cuando en cuando que le falta aire?,¿Samainiykiri mayninpiqa manan allinchu?,G02_195.wav,WAV,"2,12",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, como ahogado.","Arí, samayniymi pishipan.",G02_196.wav,WAV,"2,8",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Tiene dicultad para dormir?,¿Manachu puñuyta atinqui?,G02_197.wav,WAV,"3,26",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Me cuesta mucho.,Manan tuta puñuyta atinichu.,G02_198.wav,WAV,"3,04",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Pero si en el día, en su cuarto se duerme?","P'unchawqa, ¿wasiykipi puñuyta atinkichu?",G02_199.wav,WAV,"2,42",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, me quedo dormido.","Arí, punchawqa wasiypi puñuni.",G02_200.wav,WAV,"3,9",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+A veces bebe licor y con eso se siente mejor,¿Uhaspari allinchu kawaq?,G02_201.wav,WAV,"3,1",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+El trago me calma.,"Arí, pishita uhaspaqa allin hina kani.",G02_202.wav,WAV,"2,98",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Desde cuándo ve cosas extrañas que no son realidad?,¿Hayk’aqmanta hina hukniraykunata rikunki?,G02_203.wav,WAV,"3,04",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Hace un mes veo sombras.,Killa hunt'aña llanthukunata rikuni.,G02_204.wav,WAV,"2,96",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Oye voces extrañas que hablan?,¿Uyarinkichu hukniraykuna palaqta?,G02_205.wav,WAV,"2,38",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, me susurran.","Arí, uyarini shipshiqta.",G02_206.wav,WAV,"3,04",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Cree usted que el demonio se ha apoderado de usted?,¿Saqrawan yuyaychakunkichu?,G02_207.wav,WAV,"4,56",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Siento que me controla.,"Arí, saqraqa yuyaychawayta munan.",G02_208.wav,WAV,"2,16",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Usted cree que es Dios o la Virgen?,"¿Taytachata mamachata, hanaq pachapi kaqta ininkichu?",G02_209.wav,WAV,"6,28",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Si, soy cristiano","Ari, cristianon kani.",G02_210.wav,WAV,"4,92",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"¿Desde cuándo ha cambiado de carácter, es más dócil, más agresivo o simplemente inestable?",¿Haik’aqmanta huknirayta kawsayta tukunki? ¿Llanp'umanchu o cheqnesero?,G02_211.wav,WAV,"2,84",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Antes era calmado, ahora exploto.",Ñawpaqqa llamp'u karani kunanqa cheqneseron kani.,G02_212.wav,WAV,"2,76",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Ha notado que habla sólo?,¿Reparakunkichu sapayki parlayta?,G02_213.wav,WAV,"4,98",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, discuto conmigo.","Arí, sapallay rimapakuni.",G02_214.wav,WAV,"2,1",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Cree que es otra persona o que es Dios?,"¿Hukpa kanaykitachu yuyaychakunki, taytachachu kayta munanki?",G02_215.wav,WAV,"2,64",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Soy alguien más.,"Arí, hukmi kani.",G02_216.wav,WAV,"2,48",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Cree que lo van a matar?,¿Yuyaychakunkichu wañuchinasunkikuta?,G02_217.wav,WAV,"3,2",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Todos me persiguen.,Llapanku wañuchiyta munawanku.,G02_218.wav,WAV,"1,92",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Cree que alguien lo persigue?,¿Yuyaychakunkichu qatipamunasunkikuta?,G02_219.wav,WAV,"2,02",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, me siguen.","Arí, qatiwanku.",G02_220.wav,WAV,"1,84",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Ahora voy a verlo,Kunan khawarusayki,G02_221.wav,WAV,"2,8",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Abra la boca,Kichay simiykita,G02_222.wav,WAV,"2,26",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Saque la lengua,Qalloykita orqoy.,G02_223.wav,WAV,"2,34",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Quítese la ropa,P’achaykita ch’utikuy,G02_224.wav,WAV,"1,8",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Diga “aaaaaaa”,Niy aaaaaaa nispa,G02_225.wav,WAV,"2,94",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Respire por la nariz,Senqanta samay,G02_226.wav,WAV,"1,96",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Abra y cierre los ojos,Kichaytaq wisk’aytaq ñawiykita,G02_227.wav,WAV,"2,38",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Mire y vea bien,Qhaway allinta.,G02_228.wav,WAV,"3,1",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Por la noche ve bien?,¿Tuta allintachu qhawanki?,G02_229.wav,WAV,"2,06",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Doble y mueva el cuello,Muyuchiytaq kutirichytaq kunkaykita.,G02_230.wav,WAV,"3,38",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Pase la saliva,Thoqayniykita millp'uy.,G02_231.wav,WAV,"2,74",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Voy a examinarlo o ver la espalda y el pecho,Wasaykitawan qhasqoykitawan qhawasayqui.,G02_233.wav,WAV,"5,18",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Siéntese ahora, le voy a dar algunos golpecitos en la espalda",Kunanqa huasaykipi takarimusayki.,G02_234.wav,WAV,"2,24",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Diga treinta y tres cada vez que le toque la espalda,Kinsachunka kinsayniyoq nispa rimarinki sapa wasaykita takaqtiy.,G02_235.wav,WAV,"2,5",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Respire hondo y no tan rápido.,Allimantra ukhuman samanki.,G02_236.wav,WAV,"2,34",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Le duele lo que toco?,¿Nanasunkichu llamiqtiy?,G02_237.wav,WAV,"5,8",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Tosa y respire varias veces,Sapa samaspa uhunki.,G02_238.wav,WAV,"5,28",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Si respira hondo o profundo, ¿le duele?, ¿qué lado?",Ukhuta samantiyki  ¿nanasunkichu? ¿lloq'emanchu pañamanchu?,G02_239.wav,WAV,"3,7",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Cuando tose fuerte, ¿le duele?, ¿qué lado?",Allinta uhunqtiyki ¿nanasunkichu? ¿lloq'emanchu pañamanchu?,G02_240.wav,WAV,"1,66",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Ahora voy a examinarle el corazón,Kunanqa sonqoykita imaina kasqanta qhawasaq.,G02_241.wav,WAV,"3,32",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Recuéstese,Kumpakuy.,G02_242.wav,WAV,"3,54",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Le voy a tocar el lado izquierdo del pecho,Qhasqoykita lloq’e kaqta llamisaq.,G02_243.wav,WAV,"2,88",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Ahora voy a oír cómo camina su corazón,Kunanqa sonqoykita imaina purishan qhawasun.,G02_244.wav,WAV,"2,2",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Si camina rápido o despacio,Osqhayllachu allillamantachu purishan.,G02_245.wav,WAV,"2,34",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Deme su brazo izquierdo,Lloq’e makiykita haywamay,G02_246.wav,WAV,"2,26",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Voy a tomarle la presión,Presionniykita reparasun.,G02_247.wav,WAV,3,48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Voy a mirarle el abdomen o vientre,Wiksaykita qhawasun.,G02_248.wav,WAV,"3,9",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Respire para ver su desplazamiento,Samay qhawanaypaq imayna purin.,G02_250.wav,WAV,"3,06",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Le duele cuando le toco o aprieto?,¿Nanasunkichu llamiqtiytaq o ñit'iqtiytaq?,G02_251.wav,WAV,"2,78",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, duele más al presionar.","Arí, aswan sinchitam ñitiqtiyki.",G02_252.wav,WAV,"1,9",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Le duele más cuando le quito la mano?,¿Nanasunkichu makiyta orqoqtiy?,G02_253.wav,WAV,"3,02",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, el dolor aumenta al soltar.","Arí, astawan nanan.",G02_254.wav,WAV,"3,26",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Le duele más cuando le quito la mano?,¿Nanasunkichu makiykiyta oqarinktiy hina?,G02_255.wav,WAV,"3,4",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, como punzadas al retirar.","Arí, q’ipuypi k’iriy hina.",G02_256.wav,WAV,"2,24",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Ha visto estas venas o cosas azules en el vientre?,¿Ricunkichu anqas sirk'akuna wiksaykipi?,G02_257.wav,WAV,"4,08",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, venas marcadas.","Arí, hatun sirk'akuna.",G02_258.wav,WAV,"2,24",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Ha notado que tiene hinchado el vientre a veces o todo el tiempo?,¿Wiksaykichu punkin sapa kutichu icha unaymantañachu?,G02_259.wav,WAV,"5,12",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+A veces se me inflama,Unaymanta punkin.,G02_260.wav,WAV,"2,28",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Ahora, dése vuelta sobre el lado derecho con la pierna izquierda doblada","Kunaqa, kumpakuy pañanpanmanta lloq’e chakiykita k'iraspa.",G02_261.wav,WAV,"2,74",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Respire profundamente,Samay ukhumanta pacha,G02_262.wav,WAV,"2,8",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Le voy a dar unos golpecitos en su vientre,Wiksaykipi tacarimusayki,G02_263.wav,WAV,"2,28",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Le duele cuando le toco el lazo izquierdo?,¿Nanasunkichu lloq’e kasqan llamiqtiy?,G02_264.wav,WAV,"2,02",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, duele el lado izquierdo.","Arí, chaimi nanan.",G02_265.wav,WAV,"3,64",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Respire hondo y bote el aire,Samay ukhumanta,G02_266.wav,WAV,"2,08",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Le duele el lado derecho de su vientre cuando le toco?,¿Paña wiksayki nanasunkichu llamiqtiy?,G02_267.wav,WAV,"5,1",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, duele al tacto.","Arí, llamiqtiyki.",G02_268.wav,WAV,"1,92",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Cuándo respira hondo y cuándo bota el aire?,¿Ukhumanta samanki hinachu o samainiykita wikch'unki hinachu?,G02_269.wav,WAV,"3,26",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Duele al inhalar.,Samaypi nanan.,G02_270.wav,WAV,"2,5",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Le duelen las costillas del lado derecho cuando doy unos golpecitos en esa zona?,¿Paña huaqtayki nanasunkichu takarimuqtiy?,G02_271.wav,WAV,"2,9",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, duele al golpear.","Arí, takarimuqtiyki.",G02_272.wav,WAV,"2,06",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Levante las manos,Makiykita oqariy wichayman.,G02_273.wav,WAV,"2,12",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Cierre los ojos,Ñawiykita wisk’ay.,G02_274.wav,WAV,"2,22",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Saque la lengua,Qalloykita orqomuy.,G02_275.wav,WAV,"2,06",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Párese con los ojos cerrados,Sayay ñawi chirmispa.,G02_276.wav,WAV,"3,64",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Camine recto y derecho,Puriy ñampaqma.,G02_277.wav,WAV,"7,1",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Cruce las piernas,Chakiykita hukaqj chaki patama churay,G02_278.wav,WAV,"6,98",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Doble su pierna derecha y después la izquierda, le voy a dar unos golpecitos en cada una de las rodillas","K'iray lloq’e chakiykita chaymanta paña chakiykita, takarimusaq konkoriykicunapi ",G02_279.wav,WAV,"6,72",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Le voy a levantar la pierna izquierda sin doblar la rodilla y luego la derecha,Lloq’e chakiykita oqarisaq mana konkoriykita k'iraspa hinaspa paña chakyikitawan,G02_280.wav,WAV,"6,42",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Ponga su cuello encima de mi mano y ahora voy a tratar de sentarlo. Usted no haga nada.,"Churay cuncaykita makiy pataman, tiyarachisayki, ama imatapas ruwankichu.",G02_281.wav,WAV,"2,52",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Ahora, estando sentado voy a tocarle su columna y Ud. me dice dónde le duele","Kunanqa, tiyaqtiyki huasa ruruykita llamisaq, hinaspa maipi nanasunki niwanki.",G02_282.wav,WAV,"2,38",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Le voy a raspar la planta de los pies,Chaki pampaykita qhetusaq.,G02_283.wav,WAV,"5,68",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Le voy a apretar los talones de los pies,Talonniykita ñiit’irimusaq.,G02_284.wav,WAV,"3,24",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Le voy a pinchar suave su pierna, dígame en qué lado siente más el dolor de la pinchada","Chakiykipi aguhawan allaykusayki, niwanki maypi astawan nanasunki.",G02_285.wav,WAV,"2,96",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Dele de mamar a su hijo cada tres horas,Wawaykita ñuñuchiy sapa kinsa horas,G02_287.wav,WAV,"3,48",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Tenga limpio a su hijo,Wawaykita llimphiuqa kanan.,G02_288.wav,WAV,"2,4",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Lávele la cara, los ojos y las manos","Maqchinqui uyanta, ñawinta y makinta",G02_289.wav,WAV,3,48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Haga hervir la leche,Lecheta t'impuchinayki,G02_290.wav,WAV,"3,98",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Lávese las manos antes de comer,Makiykita maqchikunayki mihunapaq,G02_291.wav,WAV,"3,12",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Ahora que tiene diarrea, dele líquidos","Q’echawan kashan, askha unuta qonayki.",G02_292.wav,WAV,"3,86",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Dele un cuarto de taza de mate, cada vez que tenga diarrea",K’echaqtin qonky kuska taza mateta.,G02_293.wav,WAV,"3,28",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Traiga a su hijo para vacunarlo,Wawaykita vacunanapaq apamunki,G02_294.wav,WAV,"5,32",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Al otro mes, dentro de tres meses","Hamuq killata, kinsa killamanta",G02_295.wav,WAV,"2,2",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Cada mes debes traer a tu hijo para pesarlo, examinarlo","Wawaykita sapa killa apamunki pesanapaq, qhawanaypaq ima",G02_296.wav,WAV,"2,82",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Vaya al laboratorio,Laboratorioman puriy,G02_298.wav,WAV,"3,46",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Para que le hagan el examen de sangre,Yawar examenta ruwanasunkikupaq,G02_299.wav,WAV,"2,7",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Para que le hagan el examen de orina,Hisp’ay examenta ruwanasunkikupaq.,G02_300.wav,WAV,"3,16",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Para que le hagan el examen de heces,Aka examenta ruwanasunkikupaq,G02_301.wav,WAV,"2,08",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Mañana viene en ayunas,Paqarin hamunki ama mihuspa,G02_302.wav,WAV,"3,32",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Tiene que traer orina,Hisp'askaykita apamunky,G02_303.wav,WAV,"2,16",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Trae orina en este frasco,Kay frascopi hisp'askaikita apamunki,G02_304.wav,WAV,"2,04",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Tiene que traer esputo,Thoqaskaikita apamunki,G02_305.wav,WAV,"2,54",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Tiene que traer sus heces,Akaykita apamunki,G02_306.wav,WAV,"2,18",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Le van a sacar sangre,Yawar orqonasunkikupac,G02_307.wav,WAV,"2,08",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Necesita sangre,Yawartan necesitanki,G02_308.wav,WAV,"4,08",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+No debe tener miedo,Ama manchacunkichu,G02_309.wav,WAV,"1,92",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Trae dos personas para que te den sangre,Apamunayki iskay runata yawar qonasunkikupaq,G02_310.wav,WAV,"1,92",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Tiene que hospitalizarse,Hospitalisakunaiky,G02_312.wav,WAV,"2,42",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Necesita que le operen,Operasunaykiku,G02_313.wav,WAV,"1,72",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Le da miedo el hospital?,¿Hospitalta manchakunkichu?,G02_314.wav,WAV,"2,22",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, me da ansiedad.","Arí, manchakunin.",G02_315.wav,WAV,"3,08",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Tiene que ir a la sala número 4,Tawa cuartoman rinayki,G02_316.wav,WAV,"2,1",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Compre esto para su operación,Operacionniykipak kayta rantimunki,G02_317.wav,WAV,"2,16",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Tiene familia aquí?,¿Kanchu familiayki kaypi?,G02_318.wav,WAV,"1,88",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"No, estoy solo.","Mana, sapallan kani.",G02_319.wav,WAV,2,48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Esta es su cama,Kaymi puñunayki,G02_320.wav,WAV,"4,26",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Cuál es su cama?,¿Mayqenmi puñunayki?,G02_321.wav,WAV,"2,6",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Cama 12, sala 3.","Kama chunka iskayniyuq, kinsa sala.",G02_322.wav,WAV,"2,26",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Le sacaron radiografía?,¿Radiografiata orqorasunkikuchu?,G02_323.wav,WAV,"2,26",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, ayer.","Arí, qayna punchaw.",G02_324.wav,WAV,"1,7",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Esto se llama chata,Kaypak sutinqa chata,G02_325.wav,WAV,"2,16",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Aquí va a orinar,Kaypi hisp’akunki.,G02_326.wav,WAV,"1,68",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Desnúdese,P’achaykita ch'uticuy,G02_327.wav,WAV,"1,9",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Póngase la bata,Churakuy batata,G02_328.wav,WAV,"1,94",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Guarde su ropa,P'achaykita waqaychay,G02_329.wav,WAV,"2,34",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Le voy a lavar,Hamuy maqchisayki,G02_330.wav,WAV,"1,86",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Le cortaré las uñas,Silluykikunata kuchusayki.,G02_331.wav,WAV,"2,02",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Le voy a poner enema,Enemata churasayki,G02_332.wav,WAV,"1,9",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Le voy a sacar sangre,Yawarta orqosayki,G02_333.wav,WAV,"1,8",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Le voy a inyectar,Inyecshonta churasayki,G02_334.wav,WAV,"2,76",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Le voy a poner suero,Suerota churasayki,G02_335.wav,WAV,"2,16",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Hoy día no coma nada,Kunan p’unchay ama mihunkichu,G02_336.wav,WAV,"2,32",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Le voy a llevar a operar,Operacionman apasayki,G02_337.wav,WAV,"2,16",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Está muy delicado,Manan allinchu kashanki,G02_338.wav,WAV,"2,32",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Cómo ha amanecido?,¿Imaynataq Paqarinki?,G02_339.wav,WAV,"1,72",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Peor que ayer.,Qaynamanta aswan millay.,G02_340.wav,WAV,"2,62",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Ya está mejor,Allinñachu kashanki,G02_341.wav,WAV,"2,16",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Está cómodo en la cama?,¿Allinchu kashanki puñunapi?,G02_342.wav,WAV,"1,88",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"No, duele la espalda.","Mana, wasaymi nanan.",G02_343.wav,WAV,"3,44",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Le hace frío por las noches?,¿Chirisunkichu tuta?,G02_344.wav,WAV,"2,22",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Sí, tiemblo de frío.","Arí, tuta chiriypi k’akchiykun.",G02_345.wav,WAV,"1,8",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+No se saque esto,Ama kayta orqokuychu,G02_346.wav,WAV,"2,66",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+No trate de moverse,Ama kuyunkichu,G02_347.wav,WAV,"2,52",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+No se agarre la herida,Ama hap'ikunkichu usuriykita,G02_348.wav,WAV,"3,26",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"No hable, le va a doler más",Ama parlaychu astawan nanasunki,G02_349.wav,WAV,"2,06",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+"Si sangra, avise",Yawar hamusunki hina willawanki,G02_350.wav,WAV,2,48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Le ajusta la venda?,Mat’isunkichu chumpi,G02_350.wav,WAV,"1,86",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Sí me ajusta,Arí mat’iwan,G02_352.wav,WAV,"1,98",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+¿Tiene sed?,¿Ch’akisunkichu?,G02_353.wav,WAV,"1,34",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,24,varon,Cusco
+Debe tomar agua,Unuta uhianayki,G02_354.wav,WAV,"1,52",48000,buena,18/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+Debe comer,Mihunayki,G02_355.wav,WAV,"1,38",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+Tengo sed,Ch’akiywashan.,G02_356.wav,WAV,"1,74",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿Tiene frío?,¿Chirisunkichu?,G02_357.wav,WAV,"1,64",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+Abríguese bien,Allinta p'istukunki,G02_358.wav,WAV,"3,12",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿Quiere sentarse?,¿Tiyaytachu munanki?,G02_359.wav,WAV,"2,32",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"¿Y ahora, cómo se siente?",¿Kunanri imaynataq kashanki?,G02_360.wav,WAV,"2,44",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+Me siento mejor,Allinñan cashani,G02_361.wav,WAV,"2,88",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+Trate de caminar,Puryta yanay,G02_362.wav,WAV,"4,24",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+Tiene que caminar despacio,Chicamanta puriycachay,G02_363.wav,WAV,"3,46",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+Camine aunque le duela,Puriycachay nanaqtinpas,G02_364.wav,WAV,"3,66",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿Quiere ir al baño?,¿Hisp’akchu riyta munanki?,G02_365.wav,WAV,"2,52",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿Qué ha comido?,¿Imantan mikuranqui?,G02_366.wav,WAV,"3,14",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+He comido,enemata churasayki,G02_367.wav,WAV,"10,44",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+Nada he comido,Manan imatapis mikuranichu,G02_368.wav,WAV,"5,04",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+La herida se puede abrir,Usuriyki kicharukunma,G02_369.wav,WAV,"5,94",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+Se le puede infectar,Q’eacharunmanmi,G02_370.wav,WAV,"5,86",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"Ahora está bien, así que puede irse",Kunanka allin kashanki hinallaka ripuy,G02_371.wav,WAV,"4,4",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿siente fiebre por las noches o durante el día?,¿Tutachu icha p’unchawchu fiebreyuq kanki?,G02_373.wav,WAV,"3,98",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"por las noches, me despierto sudando.","Tutataq, sudaspa rikch’arini.",G02_374.wav,WAV,"9,06",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿tiene sudoraciones nocturnas?,¿Tuta sudorniyuqchu kanki?,G02_375.wav,WAV,"9,18",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, mi ropa y mi cama amanecen mojadas.","Arí, p’achaypas, puñunaypas maqchisqa rikch’arinmi.",G02_376.wav,WAV,"5,4",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"¿el dolor es punzante, ardoroso o como una presión?","¿Nanayqa k’iriqchu, ruphachiqchu icha ñit’iy hinachu?",G02_377.wav,WAV,"8,92",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+es como una presión que no se va.,Chayqa mana chinkaq ñit’iy hinan.,G02_378.wav,WAV,"7,16",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿el dolor aparece en reposo o cuando hace algún esfuerzo?,¿Samarispachu icha kallpachakusqaykipichu nanayqa rikurin?,G02_379.wav,WAV,"5,66",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+cuando camino rápido o subo escaleras.,utqaylla purispa utaq escaleraman wichaspa.,G02_380.wav,WAV,"12,98",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tomado algún medicamento para el dolor?,¿Ima nanay hampitapas tomarqankichu?,G02_381.wav,WAV,"8,84",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, tomé paracetamol, pero no me ayudó mucho.","Arí, paracetamol hampitam tomarqani, ichaqa manam anchatachu yanapawarqa.",G02_382.wav,WAV,"5,58",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿el dolor ha cambiado con los días?,¿P’unchaykuna pasasqanman hinachu nanayqa cambiaran?,G02_383.wav,WAV,"8,56",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, ahora es más intenso y más frecuente.","Arí, kunanqa aswan kallpasapam, aswan sapa kutitaqmi.",G02_384.wav,WAV,"3,84",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿sueles apretar los dientes mientras duermes?,¿Puñuchkaspa sapa kutichu kiruykikunata k’iskikunki?,G02_385.wav,WAV,"8,42",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+me levanto con dolor en la mandíbula.,Rikch’arini quijadaypi nanaywan.,G02_386.wav,WAV,"4,14",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿es posible que estés embarazada o tomando algún medicamento nuevo?,¿Atikunmanchu wiksayoq kasqayki otaq mosoq hampikunata tomasqayki?,G02_387.wav,WAV,"9,34",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+tengo náuseas todos los días por la mañana.,Sapa paqarinmi nauseawan sientekuni.,G02_388.wav,WAV,"9,48",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"¿has tenido fiebre, infecciones o cambios hormonales recientes?","¿Kayllaraqchu fiebre, infecciones otaq hormonas cambiasqa karqanki?",G02_389.wav,WAV,"8,88",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+se me cae mucho el cabello últimamente.,Kay qhipa watakunapiqa chukchayqa anchatam urmaykuchkan.,G02_390.wav,WAV,"10,06",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha notado algún cambio reciente en su visión?,¿Repararqankichu chayllaraq rikusqaykipi imapas cambiasqanmanta?,G02_391.wav,WAV,"3,94",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, últimamente veo borroso por las noches.","Arí, kay qhipa watakunapiqa tutapi mana sut’ita rikuni.",G02_392.wav,WAV,"4,24",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿siente dolor al orinar?,¿Urinakuspa nanaytachu sientenki?,G02_393.wav,WAV,"7,08",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, tengo una sensación de ardor cuando orino.","Arí, urinaspaymi ruphachiwan.",G02_394.wav,WAV,"6,14",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido episodios de mareo?,¿Episodios de mareo nisqayuqchu karqanki?,G02_395.wav,WAV,"6,12",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me siento mareado cuando me levanto rápido.","Arí, usqhaylla sayarispaymi umay muyukun.",G02_396.wav,WAV,"7,86",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿sufre de dolor de cabeza frecuente?,¿Sapa kutichu uma nanaywan ñak’arinki?,G02_397.wav,WAV,"8,76",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, tengo migrañas varias veces a la semana.","Arí, semanapi askha kutitan migraña onqoywan hap’ichikuni.",G02_398.wav,WAV,"8,34",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha notado cambios en su peso?,¿Repararqankichu llasaynikipi imapas cambiasqanmanta?,G02_399.wav,WAV,"6,26",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, he bajado cinco kilos sin razón.","Arí, mana imaraykupas pichqa kilotam pisiyachirqani.",G02_400.wav,WAV,"13,04",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿tiene antecedentes de enfermedades cardíacas en su familia?,¿Aylluykipi sunqu unquyniyuqchu kanki?,G02_401.wav,WAV,"5,96",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, mi padre tuvo un infarto a los 50 años.","Arí, taytayqa 50 watanpi kashaspan sonqonpi infarto onqoywan hap’ichikurqan.",G02_402.wav,WAV,"8,56",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido dificultad para dormir últimamente?,¿Sasachakurqankichu kay qipa watakunapi puñunaykipaq?,G02_403.wav,WAV,7,48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me cuesta mucho conciliar el sueño.","Arí, sasachakuni puñuy.",G02_404.wav,WAV,"4,58",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿le duele alguna parte del cuerpo constantemente?,¿Cuerpoykiq mayqen partenpas sapa kutilla nananchu?,G02_405.wav,WAV,"4,06",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, tengo un dolor constante en la espalda baja.","Arí, sapa kutim wasanpi nanawan.",G02_406.wav,WAV,"5,84",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido tos persistente?,¿Sapa kuti tosniyuqchu kanki?,G02_407.wav,WAV,"7,58",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, llevo más de dos semanas con tos seca.","Arí, iskay semana masñan ch’aki toswan hap’ichikuni.",G02_408.wav,WAV,"11,56",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido algún sangrado inusual?,¿Mana costumbreman hina yawar lluqsirqankichu?,G02_409.wav,WAV,"6,7",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, noté un sangrado nasal sin razón aparente.","Arí, mana imaraykupas siminmanta yawar lluqsiqta repararqani.",G02_410.wav,WAV,"7,18",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿le pican los ojos o tiene lagrimeo frecuente?,¿Sapa kutichu ñawiyki picakun icha unutachu?,G02_411.wav,WAV,"8,46",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, mis ojos están muy irritados últimamente.","Arí, kay qipa watakunapim ñawiyqa anchata piñakun.",G02_412.wav,WAV,"8,02",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido problemas con la memoria o concentración?,¿Sasachakurqankichu yuyarinaykipaq otaq yuyaymanaypi?,G02_413.wav,WAV,"12,8",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me cuesta recordar cosas simples.","Arí, sasachakunitaqmi facil kaqkunata yuyarinaypaq.",G02_414.wav,WAV,"6,92",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿se siente triste o desmotivado la mayor parte del tiempo?,¿Llakisqachu otaq mana kallpanchasqachu sientekunki yaqa llapanpi?,G02_415.wav,WAV,"11,42",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, últimamente no tengo ganas de hacer nada.","Arí, kay qipa watakunapiqa manam imatapas ruwayta munanichu.",G02_416.wav,WAV,"5,34",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido cambios en sus hábitos intestinales?,¿Ima cambiopas karqanchu wiksaykiq costumbreykikunapi?,G02_417.wav,WAV,"7,96",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, ahora voy al baño con menos frecuencia.","Arí, kunanqa pisillatam bañoman rini.",G02_418.wav,WAV,"6,72",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha notado ronquidos fuertes al dormir?,¿Repararqankichu puñushaspa sinchita ronco kashaqta?,G02_419.wav,WAV,"5,7",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, mi pareja dice que ronco mucho.","Arí, compañeroyqa ninmi anchata ronquni nispa.",G02_420.wav,WAV,"5,52",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido dolor en las articulaciones?,¿Articulaciones nanayniyuqchu karqanki?,G02_421.wav,WAV,"8,88",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me duelen las rodillas cuando camino mucho.","Arí, achkata purispayqa qunqurniymi nanawan.",G02_422.wav,WAV,"5,86",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha sentido dificultad para ver colores?,¿Hayk’aqllapas sasachakurqankichu colorkunata qawanaykipaq?,G02_423.wav,WAV,"9,36",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, los colores me parecen más apagados.","Arí, colorkunaqa aswan upallallam rikchawan.",G02_424.wav,WAV,"9,08",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿sufre de estreñimiento frecuente?,¿Sapa kutichu wiksa q’ipiy onqoywan ñak’arinki?,G02_425.wav,WAV,"7,76",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, a veces paso varios días sin evacuar.","Arí, mayninpiqa askha p’unchaykunan rini mana wiksamanta lloqsispa.",G02_426.wav,WAV,"4,32",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿se le duermen con frecuencia las manos o los pies?,¿Makiykipas otaq chakiykipas sapa kutichu puñun?,G02_427.wav,WAV,"5,72",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, especialmente por las noches.","Arí, astawanraqmi tutakunapi.",G02_428.wav,WAV,"7,02",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha sentido presión en los senos nasales?,¿Sinusniykipi ñit’iyta sienterqankichu?,G02_429.wav,WAV,"6,52",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, tengo una presión fuerte en la cara.","Arí, uyaypi sinchi ñit’iy kashan.",G02_430.wav,WAV,"4,36",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿le cuesta mantenerse concentrado durante el día?,¿Sasachakunkichu punchawpi mana yuyayniyuq kanaykipaq?,G02_431.wav,WAV,"7,86",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me distraigo con facilidad.","Arí, facil-llatam distraekuni.",G02_432.wav,WAV,"5,8",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido infecciones urinarias repetidas?,¿Sapa kutichu infecciones urinaria nisqawan unqurqankichu?,G02_433.wav,WAV,"11,56",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, ya van tres veces este año.","Arí, chayqa kimsa kutitam kay wata.",G02_434.wav,WAV,"6,74",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿siente dolor o rigidez en el cuello al despertar?,¿Rikch’arispa kunkaykipi nanasunkichu otaq k’ulluchakunki?,G02_435.wav,WAV,"4,78",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, cada mañana me cuesta mover el cuello.","Arí, sapa paqarinmi kunkayta kuyuchinaypaq sasachakuni.",G02_436.wav,WAV,"12,74",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido cambios repentinos de humor?,¿Qonqayllamantachu sonqoyki cambiarqan?,G02_437.wav,WAV,"8,54",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, paso de estar feliz a triste sin razón.","Arí, kusisqa kaymanta llakisqamanmi tukuni mana imaraykupas.",G02_438.wav,WAV,"7,42",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido episodios de visión doble?,¿Iskay rikuy episodiokunatachu ruwarqanki?,G02_439.wav,WAV,"3,96",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, a veces veo las cosas duplicadas.","Arí, mayninpiqa iskay kutitan rikuni imakunatapas.",G02_440.wav,WAV,8,48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿se le inflama la garganta con frecuencia?,¿Sapa kutichu kunkayki punkikun?,G02_441.wav,WAV,"5,46",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me duele la garganta casi cada semana.","Arí, yaqa sapa semanan kunkayqa nanawan.",G02_442.wav,WAV,"9,74",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿le arden los pies por las noches?,¿Tutachu chakiykikuna ruphachin?,G02_443.wav,WAV,"10,2",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me cuesta dormir por esa sensación.","Arí, chayna sientekusqayraykum sasachakuni puñunaypaq.",G02_444.wav,WAV,"5,42",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha notado dificultad para mover alguna parte del cuerpo?,¿Repararqankichu cuerpoykiq mayqen partentapas sasata kuyuchinaykipaq?,G02_445.wav,WAV,9,48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, el brazo izquierdo está más lento.","Arí, lluqi makiqa aswan pisillam.",G02_446.wav,WAV,"3,42",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿tiene ruidos en el estómago aunque no tenga hambre?,¿Mana yarqasqa kashaspapas wiksayki kuyurisunkichu?,G02_447.wav,WAV,"8,22",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me pasa todo el tiempo","Arí, sapa kutim chayna pasawan",G02_448.wav,WAV,"11,94",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha sentido cambios en su ritmo intestinal después de comer?,¿Repararqankichu mikhusqayki qhepaman wiksaykiq ritmon cambiasqanmanta?,G02_449.wav,WAV,"13,14",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, tengo diarrea después de algunas comidas.","Arí, wakin mikhusqaymanta qhipaman diarrea unquyniyuq kani.",G02_450.wav,WAV,"3,7",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha notado que su piel se pone morada o azulada en frío?,¿Repararqankichu chiri kaptin qarayki morado otaq azulman tikrakusqanmanta?,G02_451.wav,WAV,"6,9",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, especialmente en los dedos.","Arí, astawanqa dedokunapi.",G02_452.wav,WAV,"2,98",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido sensación de desmayo sin llegar a perder el conocimiento?,¿Hayk’aqllapas mana yuyayniyoq hinachu sientekurqanki?,G02_453.wav,WAV,"11,46",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, varias veces en el mes.","Arí, killapi achka kutita.",G02_454.wav,WAV,"4,02",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿se le inflaman las encías o sangran al cepillarse?,¿Encíasniyki punkinchu icha yawarchakunchu cepillakuspayki?,G02_455.wav,WAV,"11,8",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, casi todos los días.","Arí, yaqa sapa punchawmi.",G02_456.wav,WAV,"3,64",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿tiene dificultades para masticar alimentos duros?,¿Sasachakunkichu sinchi mikhuykunata mast’anaykipaq?,G02_457.wav,WAV,"7,96",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me duelen los dientes.","Arí, kiruykunam nanawan.",G02_458.wav,WAV,"6,72",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha notado un cambio en el color de sus uñas?,¿Repararqankichu uñaykikunapa colornin cambiasqanmanta?,G02_459.wav,WAV,"6,9",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, se han vuelto mas blancas.","Arí, aswan yuraqmanmi tukupunku.",G02_460.wav,WAV,"7,56",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido dificultad para hablar o tragar?,¿Sasachakurqankichu rimanaykipaq otaq millp’unaykipaq?,G02_461.wav,WAV,"10,96",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me cuesta tragar alimentos secos.","Arí, ch’aki mikhunata millp’unaypaqmi sasachakuni.",G02_462.wav,WAV,"8,3",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿siente dolor en los músculos sin haber hecho ejercicio?,¿Mana ejerciciota ruwaspachu aychayki nanayta sientenki?,G02_463.wav,WAV,"15,9",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me duele todo el cuerpo algunas mañanas.","Arí, wakin paqarinkunaqa lliw cuerpoymi nanawan.",G02_464.wav,WAV,"7,66",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha notado que su piel se seca mucho durante el invierno?,¿Repararqankichu chiri tiempopi qarayki sinchita ch’akipusqanmanta?,G02_465.wav,WAV,"10,08",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, mi piel se siente tirante y seca.","Arí, qarayqa k’iskisqa, ch’akisqa ima sientekun.",G02_466.wav,WAV,"14,56",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido dificultad para escuchar?,¿Sasachachu uyarirqanki?,G02_467.wav,WAV,"13,16",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me cuesta oír a personas en lugares ruidosos.","Arí, qapariq sitiokunapi runakunata uyarinaypaqmi sasachakuni.",G02_468.wav,WAV,"11,42",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido erupciones cutáneas?,¿Imapas aycha qaraykipi erupcionesniyuqchu karqanki?,G02_469.wav,WAV,"13,36",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me salieron algunas manchas rojas en el pecho.","Arí, sinqaypi wakin puka ch’iqchikunata hap’irqani.",G02_470.wav,WAV,"8,44",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿se siente más irritable o ansioso de lo normal?,¿Aswan phiñasqachu otaq llakisqa sientekunki sapa kutimanta?,G02_471.wav,WAV,"4,74",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me irrito fácilmente y estoy muy nervioso.","Arí, facil-llatam irritani hinaspapas anchatam nervioso kani.",G02_472.wav,WAV,11,48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido problemas para orinar?,¿Sasachakurqankichu urinayta?,G02_473.wav,WAV,"6,66",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido cambios en la textura de su cabello?,¿Ima cambiopas karqanchu chukchaykiq imayna kasqanpi?,G02_474.wav,WAV,"15,16",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, se me ha puesto más seco y quebradizo.","Arí, aswan ch’akisqa, aswan k’irisqaña.",G02_475.wav,WAV,"6,88",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido calambres musculares?,¿Aychaykipi calambresniyuqchu karqanki?,G02_476.wav,WAV,"9,14",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, especialmente en las piernas por la noche.","Arí, astawanqa tutapi chakikunapi.",G02_477.wav,WAV,"8,36",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido dificultad para mantenerse despierto durante el día?,¿Sasachakurqankichu p’unchaypi rikch’asqalla kanaykipaq?,G02_478.wav,WAV,"5,76",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, aunque haya dormido bien, me siento muy cansado.","Arí, allintaña puñurqani chaypas, sinchi sayk’usqañan sientekuni.",G02_479.wav,WAV,"5,88",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha notado hinchazón en su rostro?,¿Repararqankichu uyaykipi punkiyta?,G02_480.wav,WAV,"10,32",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, especialmente alrededor de los ojos.","Arí, astawanqa ñawi muyuriqpi.",G02_481.wav,WAV,"12,5",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha notado que su piel se pone más pálida de lo normal?,¿Repararqankichu qarayki sapa kutimanta aswan q’illuyapushasqanmanta?,G02_482.wav,WAV,"15,02",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, mis amigos me han dicho que me veo más pálido.","Arí, amigoykunan niwarqanku aswan q’omer rikch’ayniyoq kasqayta.",G02_483.wav,WAV,"9,76",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha notado moretones fácilmente sin razón aparente?,¿Repararqankichu mana imaraykupas facil-llata k’irisqa kasqaykita?,G02_484.wav,WAV,"11,72",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me salen moretones sin haberme golpeado.","Arí, mana kikiyta takakuspaymi chukchuchiwan.",G02_485.wav,WAV,"9,2",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido problemas para enfocar objetos cercanos?,¿Sasachakurqankichu qayllaykipi kaqkunapi yuyaymananaykipaq?,G02_486.wav,WAV,"3,9",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me cuesta leer letras pequeñas.","Arí, huch’uy letrakunata leenaypaqmi sasachakuni.",G02_487.wav,WAV,"3,4",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido zumbidos en los oídos?,¿Rinriykipichu waqarqan?,G02_488.wav,WAV,"19,74",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, escucho un sonido constante en los oídos.","Arí, sapa kutim rinriypi uyarini.",G02_489.wav,WAV,"11,08",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"¿sufre de alteraciones en el sueño, como insomnio o despertares frecuentes?","¿Puñuy sasachakuywanchu ñak’arinki, mana puñuy atiy otaq sapa kuti rikch’ariy hina?",G02_490.wav,WAV,"9,6",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me cuesta mucho conciliar el sueño y me despierto varias veces durante la noche.","Arí, sasachakunin puñuy, tutapipas askha kutitan rikch’arini.",G02_491.wav,WAV,"8,12",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha notado algún cambio en su capacidad para oler?,¿Repararqankichu asnayta atisqaykipi imapas cambiasqanmanta?,G02_492.wav,WAV,"16,9",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, me cuesta percibir ciertos olores.","Arí, wakin asnaykunata reparanaypaqmi sasachakuni.",G02_493.wav,WAV,"8,32",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido problemas digestivos después de comer alimentos grasos?,¿Wirayuq mikhuykunata mikhuspa digestivo nisqapi sasachakuyniyuqchu karqanki?,G02_494.wav,WAV,"8,18",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, siento pesadez y malestar.","Arí, llasaq kayta, mana allin kayta ima sientekuni.",G02_495.wav,WAV,"9,96",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿se le han hinchado los pies o los tobillos?,¿Chakiykikuna otaq tobilloykikuna punkisqañachu?,G02_496.wav,WAV,"12,56",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, a menudo se me inflaman los pies por la tarde.","Arí, sapa kutim tardeta chakiykuna punkikun.",G02_497.wav,WAV,"11,84",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha notado más sed de lo normal?,¿Repararqankichu sapa kutimanta aswan yakunayayta?,G02_498.wav,WAV,"17,74",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, siempre tengo mucha sed, no importa cuánto beba.","Arí, sapa kutim ancha yakunayasqa kani, maynataña tomaspaypas.",G02_499.wav,WAV,"9,44",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha notado que su voz suena diferente o más ronca?,¿Repararqankichu kunkayki huknirayta otaq aswan qaqa uyarikusqanmanta?,G02_500.wav,WAV,"7,76",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, mi voz está más ronca de lo habitual.","Arí, kunkayqa aswan qaqaraqmi sapa kutimantaqa.",G02_501.wav,WAV,"15,22",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿sus articulaciones se dislocan con facilidad?,¿Facilchu articulacionesniykikuna lluqsimun?,G02_502.wav,WAV,"10,24",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, a veces se me zafa el hombro o la rodilla sin hacer mucho esfuerzo.","Arí, mayninpiqa hombroy otaq qonqoriymi mana anchata kallpachakuspa lloqsimun.",G02_503.wav,WAV,"9,78",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido llagas orales o úlceras en la boca de forma recurrente?,¿Sapa kutichu simiykipi nanaykuna otaq simipi ulcerakuna karqan?,G02_504.wav,WAV,"14,52",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, constantemente me salen aftas en la boca.","Arí, sapa kutillanmi simiypi cáncer onqoywan hap’ichikuni.",G02_505.wav,WAV,"20,06",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿ha tenido inflamación en los vasos sanguíneos visibles?,¿Rikukuq yawar sirk’akunapi inflamación nisqayuqchu karqanki?,G02_506.wav,WAV,"5,88",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, tengo venas inflamadas que se ven muy marcadas.","Arí, punkisqa venasniyuqmi kani, chaykunaqa ancha riqsisqam rikchakun.",G02_507.wav,WAV,"8,82",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿sufre cambios repentinos en su presión arterial?,¿Qonqayllamantachu yawarniyki cambian?,G02_508.wav,WAV,"10,46",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, a veces se me sube y luego se me baja muy rápido.","Arí, wakin kutiqa ancha utqayllam wicharin, chaymanta urayman.",G02_509.wav,WAV,"7,98",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+¿se le inflaman los ganglios linfáticos frecuentemente?,¿Sapa kutichu ganglios linfáticos nisqayki punkikun?,G02_510.wav,WAV,"6,9",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+"sí, se me inflaman sin tener gripe ni infección.","Arí, punkinku mana gripewan nitaq infecciónwan.",G02_511.wav,WAV,"6,68",48000,buena,19/04/2025,Cusco,dialogo,formal,no,salud,55,mujer,Paruro
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+¿Qué enfermedad tiene tu hijo?,¿Amamanta onq'oshan wawayki?,,,,,,,,,,,,,,
